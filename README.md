@@ -9,7 +9,7 @@ winning disposable cookware (i.e. pots, pans, baking trays, and utensils), allow
 easy cleanup. Ordering meals is very easy given their user-friendly online platform and mobile
 app.
 
-## Case Challenge Part II 
+## Case Challenge 
 In an effort to diversify their revenue stream, Apprentice Chef, Inc. has launched Halfway There,
 a cross-selling promotion where subscribers receive a half bottle of wine from a local California
 vineyard every Wednesday (halfway through the work week). The executives at Apprentice Chef
